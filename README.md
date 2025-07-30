@@ -14,7 +14,7 @@ Launch the application instantly:
 ### App Banner and Model Info
 ![App Banner and Model Info](images/banner.png)
 
----
+----
 
 ### User Input Form
 ![User Input Form](images/input-form.png)
