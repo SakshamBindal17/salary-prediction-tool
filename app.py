@@ -113,7 +113,7 @@ features = saved_data["feature_names"]
 
 
 # Load model evaluation image asset
-evaluation_image = Image.open("plot.png")
+evaluation_image = Image.open("images/model-evaluation.png")
 
 
 # Display main app title
