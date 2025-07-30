@@ -14,17 +14,11 @@ Launch the application instantly:
 ### App Banner and Model Info
 ![App Banner and Model Info](images/banner.png)
 
-----
-
 ### User Input Form
 ![User Input Form](images/input-form.png)
 
----
-
 ### Projected Salary Output Example
 ![Projected Salary Output Example](images/prediction-output.png)
-
----
 
 ### Actual vs Predicted Salary Chart
 ![Actual vs Predicted Salary Chart](images/model-evaluation.png)
@@ -93,18 +87,22 @@ Launch the application instantly:
 2. **Create & activate a virtual environment** (optional but recommended):
     ```
     python -m venv venv
+    ```
     # On Windows:
+    ```
     .\venv\Scripts\activate
+    ```
     # On macOS/Linux:
+    ```
     source venv/bin/activate
     ```
 
-3. **Install dependencies:**
+4. **Install dependencies:**
     ```
     pip install -r requirements.txt
     ```
 
-4. **Run the app locally:**
+5. **Run the app locally:**
     ```
     streamlit run app.py
     ```
@@ -122,7 +120,6 @@ Launch the application instantly:
 | `images/input-form.png`     | User Input Form image                                                   |
 | `images/prediction-output.png` | Projected Salary Output Example image                              |
 | `images/model-evaluation.png`  | Actual vs Predicted Salary Chart image                             |
-| `plot.png`                  | Model evaluation chart (legacy)                                         |
 | `README.md`                 | Project documentation (you are reading it!)                             |
 
 ---
