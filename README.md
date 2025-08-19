@@ -5,7 +5,7 @@ A user-friendly web application that leverages machine learning to **predict emp
 ## 🚀 Demo
 
 Launch the application instantly:  
-**[Open Salary Prediction Tool](https://salary-prediction-tool-saksham-bindal.streamlit.app/)**
+**[Open Salary Prediction Tool](https://heart-risk-predict.streamlit.app/)**
 
 ---
 
